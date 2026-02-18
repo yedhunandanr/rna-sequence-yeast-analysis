@@ -1,10 +1,10 @@
 RNA-seq Analysis of Saccharomyces cerevisiae
 
-#Overview
+# Overview
 
 This project implements an end-to-end RNA-seq analysis pipeline, starting from raw sequencing reads and producing gene-level expression counts.
 
-#Dataset
+# Dataset
 
 Accession: SRR453566
 
@@ -12,7 +12,7 @@ Organism: Saccharomyces cerevisiae
 
 Sequencing type: Paired-end RNA-seq
 
-#Pipeline Steps
+# Pipeline Steps
 
 Quality control using FastQC
 
@@ -28,18 +28,18 @@ Gene-level quantification using featureCounts
 
 Overall alignment rate: 96.94%, indicating high-quality RNA-seq data and correct genome reference.
 
-#Reproducibility
+# Reproducibility
 
 Create the conda environment:
 
 conda env create -f environment.yml
 conda activate rnaseq
 
-#Run the pipeline:
+# Run the pipeline:
 
 bash scripts/rnaseq_pipeline.sh SRR453566
 
-#Author
+# Author
 
 yedhunandan.r
 

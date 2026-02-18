@@ -43,6 +43,6 @@ bash scripts/rnaseq_pipeline.sh SRR453566
 
 #Yedhunandan.R
 
-#MSc Bioinformatics Student
+MSc Bioinformatics Student 
 #GitHub: https://github.com/yedhunandanr
 #Email: yedhunandanr2@gmail.com

@@ -1,0 +1,13 @@
+name: rnaseq
+channels:
+
+* bioconda
+* conda-forge
+
+dependencies:
+* fastqc
+* trimmomatic
+* hisat2
+* samtools
+* subread
+

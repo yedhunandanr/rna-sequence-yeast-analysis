@@ -41,7 +41,7 @@ bash scripts/rnaseq_pipeline.sh SRR453566
 
 # Author
 
-yedhunandan.r
+Yedhunandan.R
 
 MSc Bioinformatics Student
 GitHub: https://github.com/yedhunandanr

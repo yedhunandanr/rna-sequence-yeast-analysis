@@ -24,7 +24,7 @@ BAM sorting and indexing using SAMtools
 
 Gene-level quantification using featureCounts
 
-#Key Result
+Key Result
 
 Overall alignment rate: 96.94%, indicating high-quality RNA-seq data and correct genome reference.
 
